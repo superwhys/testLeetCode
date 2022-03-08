@@ -1,0 +1,17 @@
+/agent-*
+/coverage
+/covdir
+/gopath
+/gopath.proto
+/release
+/bin
+*.etcd
+*.log
+*.swp
+*.coverprofile
+*.test
+.idea
+/vendor
+*.tmp
+*.bak
+.gobincache/
